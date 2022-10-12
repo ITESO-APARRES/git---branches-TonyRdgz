@@ -8,8 +8,10 @@ Nombre del alumno: José Antonio Rodriguez Suárez
 
 Tarea 2: Branches 
 
-Fecha: 		   12/10/2022
+Fecha: 	 12/10/2022
 
 Profesor: Alvaro Parres
+
+CAMBIO REALIZADO DESDE GITHUB
 
 
